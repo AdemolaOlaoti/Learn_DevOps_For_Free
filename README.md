@@ -27,7 +27,7 @@
 
 ## Free Programs
 - [***Free DevOps Program*** at BecomeATechPro.com](https://becomeatechpro.com/courses/free-devops-course/)
-- [***DevOps Pre-requisites Quiz***](https://becomeatechpro.com/courses/devops-quiz-bank/13620/)
+- [***DevOps Pre-requisites Quiz***](https://becomeatechpro.com/courses/devops-quiz-bank/13620/) (Please note that to attempt this quiz, you must be signed in. If you are new to BecomeATechPro.com, you can easily register a free account.)
 
 ## GitHub Repositories
 - [Maven Standalone Application](https://github.com/SourceTechTalents/maven-standalone-application)
