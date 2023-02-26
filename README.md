@@ -19,6 +19,12 @@
 - [Interview Prep](https://www.youtube.com/playlist?list=PLMR-PPuE2kcL_wjVrokE9kl7XfZu39ixx)
 - [Python](https://www.youtube.com/playlist?list=PLMR-PPuE2kcLVEAQBhpfnwMral154aSSR)
 
+## Paid Programs
+- **[DevOps Made Easy](https://becomeatechpro.com/courses/devops-made-easy/)** : This is for beginners that want to learn DevOps from the scatch. Enrollees in this program get the [DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/), and the [DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/) for free.
+- **[DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/)**: This comprises over 300 DevOps and Platform Engineering projects.
+- **[DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/)**: The quiz bank contains quizzes and flashcards for all the DevOps topics.
+- **[DevOps Refresher Series](https://becomeatechpro.com/courses/devops-refresher-series/)** : This is for intermediate learners that want to sharpen their DevOps knowledge. Enrollees in this program get the [DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/), and the [DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/) for free.
+
 ## Free Programs
 - [***Free DevOps Program*** at BecomeATechPro.com](https://becomeatechpro.com/courses/free-devops-course/)
 
@@ -33,10 +39,3 @@
 - [Kubernetes Manifest Files](https://github.com/TechDom-Ca/Kubernetes_Files)
 - [Ansible Playbooks](https://github.com/TechDom-Ca/Ansible_Playbooks)
 - [Jenkins Shared Library](https://github.com/TechDom-Ca/JenkinsGlobalLibrary)
-
-
-## Paid Programs
-- **[DevOps Made Easy](https://becomeatechpro.com/courses/devops-made-easy/)** : This is for beginners that want to learn DevOps from the scatch. Enrollees in this program get the [DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/), and the [DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/) for free.
-- **[DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/)**: This comprises over 300 DevOps and Platform Engineering projects.
-- **[DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/)**: The quiz bank contains quizzes and flashcards for all the DevOps topics.
-- **[DevOps Refresher Series](https://becomeatechpro.com/courses/devops-refresher-series/)** : This is for intermediate learners that want to sharpen their DevOps knowledge. Enrollees in this program get the [DevOps Project Bank](https://becomeatechpro.com/courses/devops-project-bank/), and the [DevOps Quiz Bank](https://becomeatechpro.com/courses/devops-quiz-bank/) for free.
